@@ -12,7 +12,7 @@ Introductory workshop on computer vision using opencv and keras.
 
 * Download [Anaconda](https://www.anaconda.com/download/#download)
 * Run the .exe file
-* Go to anaconda navigator
+* Search for Anaconda Navigator in your computer and open it
 * Go to environments >> set tab to "not installed" packages
 * Search & install opencv-python, keras
 * Open jupyter notebook from the UI(Anaconda Navigator) and create new notebook
