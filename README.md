@@ -38,7 +38,7 @@ If the cell runs without any errors you are good to go!
 * [Neural Nets](http://neuralnetworksanddeeplearning.com/)
 
 ## Author
-[Hasib Zunair](https://hasibzunair.github.io/)
+Made with ❤️ by [Hasib Zunair](https://hasibzunair.github.io/)
 
 
 
