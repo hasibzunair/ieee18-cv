@@ -1,4 +1,4 @@
-### Playing with Pixels
+### Playing with Pixels 🦄
 
 Introductory workshop on computer vision using opencv and keras.
 
@@ -13,10 +13,11 @@ Introductory workshop on computer vision using opencv and keras.
 * Download [Anaconda](https://www.anaconda.com/download/#download)
 * Run the .exe file
 * Search for Anaconda Navigator in your computer and open it
-* Go to environments >> set tab to "not installed" packages
-* Search & install opencv-python, keras
-* Open jupyter notebook from the UI(Anaconda Navigator) and create new notebook
-* Run(Shift+Enter) the following code
+* Go to environments tab and then set tab to "not installed" packages
+* Search & install opencv, keras
+* Open jupyter notebook from the UI(Anaconda Navigator) and create new notebook(New>>Python 3)
+
+* Enter the following code
 
 ```
 import numpy as np
@@ -24,6 +25,7 @@ import cv2
 import matplotlib.pyplot as plt
 import keras
 ```
+* Run the cell (Press: Shift+Enter) 
 
 If the cell runs without any errors you are good to go!
 
