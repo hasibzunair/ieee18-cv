@@ -36,7 +36,8 @@ If the cell runs without any errors you are good to go!
 * [Sendtex](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
 * [Keras](https://keras.io/)
 * [Neural Nets](http://neuralnetworksanddeeplearning.com/)
-
+* [Image Kernels](http://setosa.io/ev/image-kernels/)
+* [Deep Learning for Coders Part 1](http://course.fast.ai/index.html)
 ## Author
 Made with ❤️ by [Hasib Zunair](https://hasibzunair.github.io/)
 
